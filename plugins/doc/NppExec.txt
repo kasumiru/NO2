@@ -48,8 +48,8 @@
  *        npp_open <mask> - open files matched the mask
  *        npp_open <path\mask> - open files matched the mask
  *        npp_run <command> - run external process/command
- *        npp_save - save current file in Notepad++
- *        npp_save <file> - save a file in Notepad++ (if it's opened)      (*)
+ *        npp_saveas - save current file in Notepad++
+ *        npp_saveas <file> - save a file in Notepad++ (if it's opened)      (*)
  *        npp_saveall - save all modified files
  *        npp_switch <file> - switch to specified opened file              (*)
  *        npe_cmdalias - show all command aliases
